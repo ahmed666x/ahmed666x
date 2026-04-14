@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍💻 About Me  
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="300px" align="right">
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="300px" align="right">
 
 ✨ Flutter Developer  
 📱 Passionate about building cross-platform mobile apps  
@@ -27,8 +27,7 @@
 ### 💻 Languages
 - Dart  
 - JavaScript  
-- HTML  
-- CSS  
+- HTML   
 
 ### ⚙️ Frameworks & Tools
 - Flutter  
